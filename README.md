@@ -1,5 +1,6 @@
 JP notatki
-""mkdir
+
+``mkdir
 
 ``cp
 
