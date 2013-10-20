@@ -21,7 +21,32 @@ sciezka head -n N nazwa.c ==> otwieranie N linijek tekstu w pliku
 
 sciezka tail -n N nazwa.c ==> otwieranie ostatnich linijek tekstu
 
+sciezka grep slowo nazwa.c ==> wyszukiwanie linijek z danym slowem
 
+chmod ==> nadawanie uprawnien
+
+mv nazwa1 ~/sciezka/ / ==> przenoszenie
+
+zip -r nazwa.zip nazwa ==> tworzenie zip
+
+unzip nazwa.zip -d ~/ / ==> wypakowywanie 
+
+less nazwa ==> ogladanie danych plikow
+
+move B/a.c C ==> przenoszenie kategorii
+
+
+cp B/a.c D/E ==> kopiowanie z kat. do kat.
+
+du -h ==> uzycie dysku
+
+sort -klnr ==> sortujemy numerycznie
+
+kat/ du -h
+
+ls B* ==> wyswietla kat. na dana litere
+
+ls [A-Z]
 
 find ~/ -mtime -n <== szukanie plikow uzywanych n dni temu
 
