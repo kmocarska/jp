@@ -1,8 +1,17 @@
-Notatka 20.10.2013 :D
+Notatka JP nygga 20.10.2013 :D
 
 
-find ~/ -mtime -10 <== szukanie plikow uzywanych 10 dni temu
+find ~/ -mtime -n <== szukanie plikow uzywanych n dni temu
 
-``find ~/ -atime 20 <== szukanie polikow nieuzywanych przez ostatnie 20 dni
+find ~/ -atime n <== szukanie polikow nieuzywanych przez ostatnie 2n dni
 
-``find /etc\( -type f -and -name a* \) -or \( -type d -and ! -empty\ 2>/dev/null
+find /etc\( -type f -and -name a* \) -or \( -type d -and ! -empty\ 2>/dev/null
+
+rm x?? <== usun pliki z 3 znakami zaczynajace sie na x
+
+
+mkdir $(date +%F) ==> tworzenie kat. o nazwie z data dzisiejsza
+
+
+
+
