@@ -34,7 +34,8 @@ Notatka JP nygga
 
 ``less nazwa ==> ogladanie danych plikow
 
-``move B/a.c C ==> przenoszenie kategorii
+``move B/a.c C
+==> przenoszenie kategorii
 
 
 ``cp B/a.c D/E ==> kopiowanie z kat. do kat.
@@ -53,7 +54,7 @@ Notatka JP nygga
 
 ``find ~/ -atime n <== szukanie plikow nieuzywanych przez ostatnie n dni
 
-``find /etc\( -type f -and -name a* \) -or \( -type d -and ! -empty\ 2>/dev/null
+`` find /etc\( -type f -and -name a* \) -or \( -type d -and ! -empty\ 2>/dev/null
 
 ``rm x?? <== usun pliki z 3 znakami zaczynajace sie na x
 
