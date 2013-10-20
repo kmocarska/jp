@@ -1,7 +1,8 @@
 Notatka JP nygga 
 
 
-``cp ==> kopiowanie pliku i katalogu
+``cp 
+==> kopiowanie pliku i katalogu
 
 ``touch ==> zmiana czasu pliku/ tworzenie pliku txt)
 
